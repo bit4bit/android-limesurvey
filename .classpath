@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="libs/commons-codec.jar"/>
+	<classpathentry kind="lib" path="libs/sqlcipher.jar"/>
+	<classpathentry kind="lib" path="libs/guava-r09.jar"/>
+	<classpathentry kind="lib" path="libs/android-json-rpc-0.3.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AndroidQuickForm"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

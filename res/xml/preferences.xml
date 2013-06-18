@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:title="@string/app_conf_username" android:key="username"/>
+    <EditTextPreference android:title="@string/app_conf_password" android:key="password"/>
+    <EditTextPreference android:title="@string/app_conf_serverurl" android:key="serverurl"/>
+    <ListPreference android:entries="@array/app_conf_mode" android:title="@string/app_conf_mode" android:key="mode\" android:entryValues="@array/app_conf_mode" android:defaultValue="online"/>
+    
+
+</PreferenceScreen>

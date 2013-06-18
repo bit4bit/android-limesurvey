@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_configuration" android:title="@string/app_configuration"></item>
+
+</menu>
